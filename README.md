@@ -3,7 +3,7 @@
 <img alt="Coding" width="300" align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
 
 
-<p align="left"> <img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" alt="devtwana" /> </p>
+<p align="left"> <img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"/> </p>
 
 - 🌱 I’m currently learning **Laravel, TypeScript, Emotion JS**
 
