@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Full Stack Web Developer from Iraq</h3>
 <img alt="Coding" width="300" align="right" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u">
 
-
-<p align="left"> <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> </p>
+ <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 
 
 - 🌱 I’m currently learning **Laravel, TypeScript, Emotion JS**
 
