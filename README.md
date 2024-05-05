@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Twana Jarjes</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Iraq</h3>
-<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480"></iframe> 
+![gify](https://github.com/DevTwana/DevTwana/assets/78475698/790a2a86-d97f-4ab8-b478-cf7e822b210c)
+
 
 - 🌱 I’m currently learning **Laravel, TypeScript, Emotion JS**
 
