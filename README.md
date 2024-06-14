@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/twana-jirjees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twana-jirjees" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/twana-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twana-coder" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17755235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17755235" height="30" width="40" /></a>
 <a href="https://fb.com/twana.jirjees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twana.jirjees" height="30" width="40" /></a>
-<a href="https://instagram.com/twana.jarjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twana.jarjes" height="30" width="40" /></a>
+<a href="https://instagram.com/twana.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="twana.coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
